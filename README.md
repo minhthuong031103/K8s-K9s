@@ -1,5 +1,5 @@
 # K8s-K9s
-
+https://viblo.asia/s/hoc-kubernetes-tu-co-ban-den-gan-nang-cao-aAY4qQ6w4Pw
 
 - minikube tunnel=> access port inside cluster
 
